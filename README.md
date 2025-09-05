@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+body {background-color: none;}
+h1,   {color: black; font-size: 200%}
+h2 {font-size: 150%}
+p, pre   {color: black;font-size: 125%}
+body{text-align: center}
+img {
+  border-radius: 50%;
+}
+.column {
+  float: left;
+  width: 33%;
+  padding: 0px;
+}
+/* Flexbox socials section */
+    .socials {
+      display: flex;
+      justify-content: center;
+      gap: 40px;       /* space between icons */
+      margin: 20px 0;  /* breathing room */
+    }
+
+    .socials img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+    }table {
+  margin-left: auto;
+  margin-right: auto;  /* centers the table */
+  border-collapse: collapse; /* applies only to the table */
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+</style>  
+<title>Wills profile </title>
+</head>
+<h1 style="text-align:center";>Will Hough</h1>
+<p> Find out about me my current running mission and how to find me online below </p> <br><br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
+
+<body>
+<iframe width="700" height="400"
+src="https://youtube.com/shorts/KYVXkD05AMU?feature=share">
+</iframe> 
+
+<p> Thank you for coming to check me out! Whilst the youtube video above should have explained everything just a brief recap. I am on a mission to get sponsorship and raise money for an amazing charity in Leicester that supported me and my family when my father was coming to the latter stages of his life and support after he passed away too. <br><br> To do this i will be running the Leicester half marathon in October on the weekend of what would have been his birthday! When my coach came and got me through the half marathon in Leicester the one thing i missed at the end was my dad to be there and see me cross the line <br><br> he never got to see me run a race as only started earlier this year. So to feel like he is there at the end is another reason i am raising money for LOROS! Please click below to go to the donation page and put some money to a good cause! Whilst I torture myself running 21KM OR 13 sih miles </p>
+
+<a href="Hello! I’m fundraising for LOROS, the Leicestershire and Rutland Hospice. Here’s my JustGiving page, if you’d like to donate: https://www.justgiving.com/page/william-hough-1?utm_medium=FR&utm_source=WA;">LINK FOR DONATING</a><p>(opens in new tab)
+<h4> Concider gift aid too</h4>
+  <table>
+  <tr>
+    <th>Donate</th>
+    <th>without GA</th>
+    <th>WITH GA</th>
+  </tr>
+  <tr>
+    <td>£1</td>
+    <td>£1</td>
+    <td>£1.25</td>
+  </tr>
+  <tr>
+    <td>£5</td>
+    <td>£5</td>
+    <td>£6.25</td>
+  </tr>
+  <tr>
+  <td> £10 </td>
+  <td> £10 </td>
+  <td> £12.50 </td>
+</table>
+
+
+<h2> want to check me out on social media and follow along how my training is going? <br><br>Head to my socials! </h2>
+
+
+
+ <div class="socials">
+    <a href="https://www.linkedin.com/in/will-hough/" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQH3ChCP40wYEw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704726288764?e=2147483647&v=beta&t=cG6hOGMly2Batzsoicv74MTjgbTkSlCtpbu9fpWBWqc" 
+           alt="LinkedIn profile photo">
+    </a><h1>Linkedin</h1>
+
+    <a href="https://www.instagram.com/willherun/" target="_blank">
+      <img src="https://scontent.fltn1-1.fna.fbcdn.net/v/t39.30808-6/502582865_10234708045497732_4856794359527562304_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=aHvEb61TOsgQ7kNvwHO6GVc&_nc_oc=Adl77GV-2osu-_09XU4uqX9XrhnO2Yyi9-IodVTs8_yZ94Qj5X1b279-IAOk54hn1ho&_nc_zt=23&_nc_ht=scontent.fltn1-1.fna&_nc_gid=2cS3KSNFxKmGi0ECQt5CHQ&oh=00_AfVhYbmdoa2db89SQCjaE4RoS0GJsYvnbzWFTaofvhNwnw&oe=68B8D953" 
+           alt="Instagram profile photo">
+    </a><h1>Instagram</h1>
+  </div>
+  
+  
+
+
+
+</body>
+</html>
