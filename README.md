@@ -46,7 +46,7 @@ th, td {
 
 <body>
 <iframe width="700" height="400"
-src="https://youtube.com/shorts/KYVXkD05AMU?feature=share">
+src="https://www.youtube.com/embed/KYVXkD05AMU">
 </iframe> 
 
 <p> Thank you for coming to check me out! Whilst the youtube video above should have explained everything just a brief recap. I am on a mission to get sponsorship and raise money for an amazing charity in Leicester that supported me and my family when my father was coming to the latter stages of his life and support after he passed away too. <br><br> To do this i will be running the Leicester half marathon in October on the weekend of what would have been his birthday! When my coach came and got me through the half marathon in Leicester the one thing i missed at the end was my dad to be there and see me cross the line <br><br> he never got to see me run a race as only started earlier this year. So to feel like he is there at the end is another reason i am raising money for LOROS! Please click below to go to the donation page and put some money to a good cause! Whilst I torture myself running 21KM OR 13 sih miles </p>
