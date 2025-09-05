@@ -41,7 +41,7 @@ th, td {
 </style>  
 <title>Wills profile </title>
 </head>
-<h1 style="text-align:center";>Will Hough</h1>
+
 <p> Find out about me my current running mission and how to find me online below </p> <br><br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
 
 <body>
