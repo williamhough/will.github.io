@@ -42,7 +42,7 @@ th, td {
 <title>Wills profile </title>
 </head>
 
-<p> Find out about me my current running mission and how to find me online below </p> <br><br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
+<p> Find out about me my current running mission and how to find me online below </p> <br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
 
 <body>
 <iframe width="700" height="400"
