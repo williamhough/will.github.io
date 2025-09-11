@@ -45,7 +45,7 @@ th, td {
 <p> Find out about me my current running mission and how to find me online below </p> <br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
 
 <body>
-<iframe width="700" height="400"
+<iframe width="400" height="150"
 src="https://www.youtube.com/embed/KYVXkD05AMU">
 </iframe> 
 
