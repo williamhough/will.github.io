@@ -91,8 +91,9 @@ src="https://www.youtube.com/embed/KYVXkD05AMU">
            alt="Instagram profile photo">
     </a><h1>Instagram</h1>
   </div>
+
+  <blockquote class="imgur-embed-pub" lang="en" data-id="W6wq4pL"><a href="https://imgur.com/W6wq4pL">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   
 <img src="https://imgur.com/W6wq4pL" alt="will on a choo choo train">
-
 </body>
 </html>
