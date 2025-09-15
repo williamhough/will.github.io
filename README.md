@@ -3,7 +3,7 @@
 <head>
     <style>
 body {background-color: none;}
-h1,   {color: black; font-size: 200%}
+h1,   {color: black; font-size: 200%:uppercase}
 h2 {font-size: 150%}
 p, pre   {color: black;font-size: 125%}
 body{text-align: center}
@@ -27,11 +27,6 @@ img {
       width: 200px;
       height: 200px;
       border-radius: 50%;
-    }table {
-  margin-left: auto;
-  margin-right: auto;  /* centers the table */
-  border-collapse: collapse; /* applies only to the table */
-  text-align: center;
 }
 </style>  
 <title>Wills profile </title>
@@ -40,7 +35,7 @@ img {
 <p> Find out about me my current running mission and how to find me online below </p> <br> The youtube video will give you a quick insight into everything Will. <br><br>  <p>
 
 <body>
-<iframe width="400" height="150"
+<iframe width="60%" height="40%"
 src="https://www.youtube.com/embed/KYVXkD05AMU">
 </iframe> 
 
