@@ -73,6 +73,8 @@ src="https://www.youtube.com/embed/KYVXkD05AMU">
   <td> £12.50 </td>
 </table>
 
+<a href="https://www.justgiving.com/page/william-hough-1?utm_medium=FR&utm_source=WA"> 
+
 <a href="Hello! I’m fundraising for LOROS, the Leicestershire and Rutland Hospice. Here’s my JustGiving page, if you’d like to donate: https://www.justgiving.com/page/william-hough-1?utm_medium=FR&utm_source=WA;">LINK FOR DONATING</a><p>(opens in new tab)
 <h4> Concider gift aid too</h4>
  
