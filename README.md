@@ -33,11 +33,6 @@ img {
   border-collapse: collapse; /* applies only to the table */
   text-align: center;
 }
-
-th, td {
-  border: 1px solid black;
-  padding: 8px 12px;
-}
 </style>  
 <title>Wills profile </title>
 </head>
@@ -51,27 +46,6 @@ src="https://www.youtube.com/embed/KYVXkD05AMU">
 
 <p> Thank you for coming to check me out! Whilst the youtube video above should have explained everything just a brief recap. I am on a mission to get sponsorship and raise money for an amazing charity in Leicester that supported me and my family when my father was coming to the latter stages of his life and support after he passed away too. <br><br> To do this i will be running the Leicester half marathon in October on the weekend of what would have been his birthday! When my coach came up he got me through the half marathon in Nottingham the one thing i missed at the end was my dad to be there and see me cross the line <br><br> He never got to see me run a race as I only started earlier this year. So to feel like he is there at the end of the Leicester half is another reason i am raising money for LOROS! Please click below to go to the donation page and put some money to a good cause! Whilst I torture myself running 21KM OR 13 ish miles </p>
 
- <table>
-  <tr>
-    <th>Donate</th>
-    <th>without GA</th>
-    <th>WITH GA</th>
-  </tr>
-  <tr>
-    <td>£1</td>
-    <td>£1</td>
-    <td>£1.25</td>
-  </tr>
-  <tr>
-    <td>£5</td>
-    <td>£5</td>
-    <td>£6.25</td>
-  </tr>
-  <tr>
-  <td> £10 </td>
-  <td> £10 </td>
-  <td> £12.50 </td>
-</table>
 
 <a href="https://www.justgiving.com/page/william-hough-1?utm_medium=FR&utm_source=WA"> 
 
